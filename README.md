@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Varun Singh  <br><br>🎓 Computer Science and Engineering Student  <br>💻 Passionate about Software Development and Problem Solving  <br><br>🚀 Skilled in **Java, React.js, Node.js, Express.js, and MongoDB**  <br>🧠 Solved **450+ DSA problems** and continuously improving my algorithmic thinking  <br><br>🔧 Interested in:<br>- Full Stack Web Development<br>- Data Structures & Algorithms<br>- Real-time applications<br>- AI & Machine Learning<br><br>🌱 Currently learning **Advanced Backend Development and Machine Learning**<br><br>📫 Always excited to learn new technologies and build impactful projects.
+Hi 👋, I'm Varun Singh  <br><br>🎓 Computer Science and Engineering Student  <br>💻 Passionate about Software Development and Problem Solving  <br><br>🚀 Skilled in **Java, React.js, Node.js, Express.js, and MongoDB**  <br>🧠 Solved **500+ DSA problems** and continuously improving my algorithmic thinking  <br><br>🔧 Interested in:<br>- Full Stack Web Development<br>- Data Structures & Algorithms<br>- Real-time applications<br>- AI & Machine Learning<br><br>🌱 Currently learning **Advanced Backend Development and Machine Learning**<br><br>📫 Always excited to learn new technologies and build impactful projects.
 
 
 ## 🌐 Socials:
